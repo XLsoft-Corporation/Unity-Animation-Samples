@@ -1,8 +1,13 @@
 # Unity Animation Samples
+
 Unity Animation Samples using KudanAR
 
-In order for this sample project to work, you will need to download the KudanAR Unity plugin from the [Kudan website](https://www.kudan.eu/download/). Import the plugin into the project, open one of the "Animation" scenes and you should be good to go!
+## Instructions
+- Download the Kudan Unity Plugin from [the XLsoft Kudan Download Page](https://www.xlsoft.com/en/products/kudan/download.html).
+- Open the Unity Project and go to **Assets -> Import Package -> Custom Package**
+- Add `KudanARUnity.unitypackage`
+- Build and run the Unity Project
 
-If you have any feedback about our SDK or provided sample source code, please get in touch with us at [our support site](https://www.kudan.eu/support/).
+For any additional questions or concerns, visit the [XLsoft Kudan Developer Hub](https://www.xlsoft.com/doc/kudan/).
 
-Thanks!
+For any inquires, please contact [XLsoft](https://www.xlsoft.com/en/services/xl_form.html).
