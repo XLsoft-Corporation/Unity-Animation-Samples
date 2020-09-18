@@ -1,6 +1,6 @@
 # Unity Animation Samples
 
-Unity Animation Samples using KudanAR (Compatible with Unity 2018)
+Unity Animation Samples using KudanAR
 
 ## Instructions
 
