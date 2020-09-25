@@ -1,6 +1,7 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/unity,macos,windows
-# Edit at https://www.toptal.com/developers/gitignore?templates=unity,macos,windows
+
+# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,unity,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,unity,visualstudiocode
 
 ### macOS ###
 # General
@@ -99,6 +100,18 @@ InitTestScene*.unity.meta
 InitTestScene*.unity
 
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -125,11 +138,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/unity,macos,windows
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,unity,visualstudiocode
 
 # My Ignore files
 
 *.apk
+*.symbols.zip
 /ios/
 /Assets/KudanAR/
 /Assets/KudanAR.meta
